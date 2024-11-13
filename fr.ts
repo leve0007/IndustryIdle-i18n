@@ -375,13 +375,13 @@ export const FR = {
     Tutorial1:
         "Industry Idle est un jeu <em>de gestion des ressources</em> où vous construisez des usines🏭, produire des biens📦 et gagner de l'argent💸.<br><br>Passons en revue quelques concepts de base pour vous aider à bien démarrer - cela ne prendra pas longtemps, je le promets.",
     Tutorial2:
-        "Tous les bâtiments ont besoin d'électricité ⚡,you have une <em>éolienne</em> qui génère de l'énergie. Vous pouvez voir votre alimentation électrique actuelle en haut a gauche.<br><br> Vous avez peut-être remarqué que les éoliennes ne fonctionnent que <em>80%</em> du temps. Vous pouvez envisager de construire d'autres types de centrales électriques qui génèrent une énergie stable.",
+        "Tous les bâtiments ont besoin d'électricité ⚡,vous avez une <em>éolienne</em> qui génère de l'énergie. Vous pouvez voir votre alimentation électrique actuelle en haut a gauche.<br><br> Vous avez peut-être remarqué que les éoliennes ne fonctionnent que <em>80%</em> du temps. Vous pouvez envisager de construire d'autres types de centrales électriques qui génèrent une énergie stable.",
     Tutorial3:
         "Vous avez beaucoup de <em>gisements de ressources</em> sur la carte. Pour extraire des ressources, ⛏️ il faut construire des mines <em>au dessus de</em> le dépôt correspondant.<br><br>Par exemple, vous avez un <em>puits de pétrole🛢️</em> qui extrait du <em>pétrole brut</em> d'un gisement de pétrole.<br></br>Les dépôts de ressources sont illimités - pas besoin de s'inquiéter de leur épuisement. En dehors des mines, d'autres bâtiments peuvent être construits sur n'importe quelle tuile vide.",
     Tutorial5:
         "Pour gagner de l'argent, vous devez exporter vos ressources via le centre d'échange. Pour ce faire, activez simplement <em>vente auto</em> pour cette ressource.<br></br>Vous pouvez également acheter des ressources au centre commercial. Se souvenir <em>si vous achetez une ressource, vous augmenterez le prix</em> et si vous vendez une ressource, vous réduirez le prix.<br><br>Le marché est <em>changant</em> et le prix📈 change régulièrement.",
     Tutorial6:
-        "Pour construire de nouveaux bâtiments, vous devez d'abord le déverrouiller dans le <em>Laboratoire de recherche🧪</em>. Le laboratoire de recherche convertit également la science en points de recherche. <br><br>Votre éolienne (et d'autres centrales électriques) produit une petite quantité de science lorsqu'elle fonctionne. Et tu peux construire une école🏫 et d'autres bâtiments dédiés pour stimuler la science plus tard.<br><br>Maintenant que vous avez appris toutes les bases, commencez à bâtir votre économie! Voilà de <em>l'argent💸</em> et du <em>pétrole⛽</em> to give you a jump start.",
+        "Pour construire de nouveaux bâtiments, vous devez d'abord le déverrouiller dans le <em>Laboratoire de recherche🧪</em>. Le laboratoire de recherche convertit également la science en points de recherche. <br><br>Votre éolienne (et d'autres centrales électriques) produit une petite quantité de science lorsqu'elle fonctionne. Et tu peux construire une école🏫 et d'autres bâtiments dédiés pour stimuler la science plus tard.<br><br>Maintenant que vous avez appris toutes les bases, commencez à bâtir votre économie! Voilà de <em>l'argent💸</em> et du <em>pétrole⛽</em> pour vous donner un coup de pouce.",
     WelcomePlay: "Jouer",
     WelcomePlayMuted: "Jouer (🔇Music)",
     Chat: "Discussion",
@@ -796,7 +796,7 @@ export const FR = {
     Tutorial4P2:
         " Vous pouvez changer votre type de carburant dans le <em>Département de logistique🚦</em> - sur cette carte, vous pouvez également utiliser le <em>gaz naturel</em> comme carburant.<br><br>Le Département de logistique montre également vos routes de transport qui brûlent le plus de carburant - vous voudrez garder un œil dessus. <br><br>N'oubliez pas de <em>vous assurer que votre production de carburant est supérieure à la consommation</em>, sinon votre production s'arrêtera lorsque vous serez à court de carburant.<br><br>Si cela se produit, ne vous inquiétez pas, vous pouvez acheter du carburant d'urgence au Centre d'échange ou auprès d'autres joueurs",
     Tutorial5P2:
-        "Le <em>Bureau des statistiques📊</em> fournit un bon aperçu de votre production. Vous pouvez voir une ventilation détaillée de vos entrées et sorties de ressources.<br><br>Il y a également beaucoup de graphiques utiles📈 - vous voudrez vous y référer lorsque vous équilibrez votre production.<br></br>Vos indicateurs d'<em>argent💰, de surplus d'énergie⚡ et de surplus de carburant⛽</em> sont également affichés dans le coin supérieur gauche - si l'un d'entre eux devient rouge, vous devriez chercher à savoir ce qui se passe.",
+        "Le <em>Bureau des statistiques📊</em> fournit un bon aperçu de votre production. Vous pouvez voir une description détaillée de vos entrées et sorties de ressources.<br><br>Il y a également beaucoup de graphiques utiles📈 - vous voudrez vous y référer lorsque vous équilibrez votre production.<br></br>Vos indicateurs d'<em>argent💰, de surplus d'énergie⚡ et de surplus de carburant⛽</em> sont également affichés dans le coin supérieur gauche - si l'un d'entre eux devient rouge, vous devriez chercher à savoir ce qui se passe.",
     MusicProducer: "Producteur de musique",
     PlasticFiber: "Fibre plastique",
     PlasticFiberDesc: "Les usines de fibres utilisent 50 % de plastique en plus, mais 50 % de verre en moins.",
@@ -1497,7 +1497,7 @@ export const FR = {
     AutoSellCapacityMultiplierDescV2: "This will give extra auto sell capacity on top of your existing capacity",
     AutoSellCapacity: "Capacité de vente automatique",
     AutoSellCapacityDescV2:
-        "Max amount of resources auto sell can handle per second, per resource, measured as the percentage of your total production of that resource",
+        "Quantité maximale de ressources que la vente automatique peut gérer par seconde. Par ressource, mesurée en pourcentage de votre production totale de cette ressource",
     AutoSellCapacityExtraPercentageFromSwiss: "Extra Percentage from Swiss Upgrade and Boost: %{n}%",
     BaselineAutoSellCapacity: "Baseline auto sell capacity: %{amount}",
     AchievementAuckland100: "Hoiho",
